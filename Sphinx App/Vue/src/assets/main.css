@@ -1,0 +1,14 @@
+** {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./pxfuel.jpg);
+  color: #000000;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font-family: Helvetica, sans-serif;
+}

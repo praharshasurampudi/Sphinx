@@ -1,0 +1,173 @@
+**{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./pxfuel.jpg);
+    color: #fff;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    font-family: Helvetica, sans-serif;
+}
+.centered_banner_text {
+    height: 25rem;
+    position: relative;
+}
+
+.centered_banner_text p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+}
+.btn-font-bold{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+#reg_btn_home{
+    color: #fff !important;
+    text-decoration: none !important;
+
+}
+#log_btn_home {
+    color: #000 !important;
+    text-decoration: none !important;
+}
+.form-card{
+    border-radius: 20px;
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 20px;
+    background-color: #222;
+    backdrop-filter: blur(50px);
+    padding: 3rem 2rem 3rem 2rem;
+    margin-top: 4rem;
+    
+}
+
+.login-frm-btn{
+        padding: 1rem 10rem 1rem 10rem;
+        margin-top: 3rem;
+        font-weight: 700;
+}
+.text-black{
+    color: #000 !important;
+}
+#anchor_notext_decor {
+    color: #000 !important;
+    text-decoration: none !important;
+    font-family: Helvetica, sans-serif;
+}
+.Registorascreator{
+    color: #fff;
+    background-color: whitesmoke;
+    border-color: rgb(255, 255, 255);
+    border-radius: 120px;
+    height: 24rem;
+    width: 24rem;
+}
+.user_dashboard_card_main{
+    border-radius: 10px;
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 20px;
+    background-color: #222;
+    padding: 1rem 3rem 5rem 3rem;
+    margin-top: 5rem;
+}
+.user_dashboard_track_main{
+    border-radius: 10px;
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 20px;
+    background-color: #222;
+    padding: 1rem 3rem 1rem 3rem;
+    margin-top: 4rem;
+}
+.dashboard_card_inner{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 20px;
+    background-color: #222;
+    height: 15rem;
+    margin : 0px;
+    border-radius: 1rem;
+}
+.dashboard_card_inner2{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 5px;
+    background-color: #222;
+    height: auto;
+    margin : 0px;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+.dashboard_card_inner3{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 5px;
+    background-color: #222;
+    height: auto;
+    margin : 0px;
+    border-radius: 1rem;
+    margin-top: 3rem;
+    padding: 2rem;
+}
+.user_dashboard_main_row{
+    padding: 5rem;
+}
+.search_tracks_input{
+    width: 35%;
+    float: right;
+    margin: 2rem;
+}
+.card_songpage_main{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 20px;
+    background-color: #222;
+    height: auto;
+    margin: 0px;
+    border-radius: 1rem;
+}
+.card_songpage_inner{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 20px;
+    background-color: #222;
+    justify-content: center;
+    height: auto;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+}
+.percentage:after {
+    content: "";
+    display: block;
+    background-color: #3d9970;
+}
+.percentage-20:after {
+    width: 20%;
+}
+.percentage-30:after {
+    width: 30%;
+}
+
+#audio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#pic{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 5px;
+    background-image: url(./pxfuel.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 35rem;
+    margin: 2px;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    padding: 2rem;
+    width: 35rem;
+    margin-left: 24%;
+}
+#playliscard{
+    box-shadow: rgb(255 255 255 / 35%) 0px 0px 5px;
+    background-image: url(./pxfuel.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
