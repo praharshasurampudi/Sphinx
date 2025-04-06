@@ -1,4 +1,5 @@
 # Sphinx
+## Streaming Platform for Hosting Immersive, Next-gen eXperiences
 
 SPHINX is a sleek, multi-user music streaming application built with Vue.js on the frontend and Flask on the backend. It offers a responsive, modern interface for discovering, streaming, and managing music in real-time. Designed with scalability and performance in mind, SPHINX brings together the best of both frontend interactivity and backend efficiency.
 
